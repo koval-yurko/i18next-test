@@ -1,0 +1,9 @@
+{
+  "common": {
+    "name": "FR Yura"
+  },
+  "main": {
+    "prop": "FR Test"
+  },
+  "@resourcify/ui/common": {}
+}
